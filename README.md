@@ -9,7 +9,7 @@ for whom the backend has to be implemented.
 API FUNCTIONALITY:
 - Authentication
 - Creating restaurant
-- Uploading menu for restaurant (There should be a menu for each day)
+- Uploading menu for restaurant 
 - Creating employee
 - Getting current day menu
 - Getting results for the current day
